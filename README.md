@@ -36,6 +36,36 @@ This is a **trainable**, **end-to-end** deep learning engine.
 - Works on MNIST or CIFAR-10
 
 
+## Progress (2025-12-03)
+
+### Core Architecture
+- [ ] Base Layer structure
+- [ ] Weight initialization utilities
+- [ ] Optimizer (SGD)
+
+### Basic Layers
+- [ ] ReLU (forward/backward)
+- [ ] Dense (forward/backward)
+- [ ] Softmax + CrossEntropy
+
+### Convolution Layers
+- [ ] Conv2D (forward)
+- [ ] Conv2D (backward)
+- [ ] MaxPooling (forward)
+- [ ] MaxPooling (backward)
+
+### Training Pipeline
+- [ ] Model class
+- [ ] Training loop
+- [ ] MNIST test run
+
+### Future Extensions
+- [ ] Batch Normalization
+- [ ] Momentum optimizer
+- [ ] Dropout
+- [ ] CIFAR-10 demo
+
+
 ## Architecture
 
 - conv/
