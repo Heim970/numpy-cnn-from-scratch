@@ -1,6 +1,7 @@
 # numpy-cnn-from-scratch
 
 Implementation of a Convolutional Neural Network from scratch using only NumPy.
+> 🚀 Building a trainable CNN engine from scratch — updates coming soon.
 
 
 ## Title
